@@ -22,4 +22,4 @@ Let us know if you can help with this - we might have some more similar tasks co
 
 ## Work Result
 
-You can review my work result in [result.csv](https://github.com/hendrapaiton/transformer/blob/main/result.csv?raw=true) files. I'm processing data using pandas to transform and load it to CSV files. You can view the data result as the same as the client's request in the example picture above. So if you have a task like this too, don't hesitate to hire me. Thanks.
+You can review my work result in [result.csv](https://github.com/hendrapaiton/transformer/blob/main/result.csv) files. I'm processing data using pandas to transform and load it to CSV files. You can view the data result as the same as the client's request in the example picture above. So if you have a task like this too, don't hesitate to hire me. Thanks.
