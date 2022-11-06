@@ -1,0 +1,10 @@
+,Company,Country,Date From,Date To,Type,Emission in tCO2,Verified By
+0,A,UK,01.01.18,31.12.18,Scope 1,12.915,Cventure LLC
+0,A,UK,01.01.18,31.12.18,Scope 2,61.801,Cventure LLC
+0,A,UK,01.01.18,31.12.18,Scope 3,78.557,
+0,A,UK,01.01.20,31.12.20,Scope 1,5.712,
+0,A,UK,01.01.20,31.12.20,Scope 2,49.513,
+0,A,UK,01.01.20,31.12.20,Scope 3,24.068,Cventure LLC
+0,B,UK,04.07.19,03.07.20,Scope 1,679.0,Carbon Trust
+0,B,UK,04.07.19,03.07.20,Scope 2,4.445,
+0,B,UK,04.07.19,03.07.20,Scope 3,56290.0,CarbonTrust
