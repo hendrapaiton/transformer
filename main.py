@@ -6,6 +6,10 @@ def get_data_csv(files):
     return data
 
 
+def save_data_csv(data: pd.DataFrame):
+    data.to_csv('result.csv')
+
+
 if __name__ == '__main__':
     result = pd.DataFrame(
         columns=[
@@ -45,4 +49,4 @@ if __name__ == '__main__':
                 'Emission in tCO2': data['Scope 3 Emissions Total tCO2'][i],
                 'Verified By':data['Scope 3 Emissions Verified By'][i]
             }])])
-    print(result)
+    save_data_csv(result)
